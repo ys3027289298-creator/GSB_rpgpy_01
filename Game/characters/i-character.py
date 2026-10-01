@@ -1,0 +1,4 @@
+def characterfunction():
+  import narrator
+  
+  
